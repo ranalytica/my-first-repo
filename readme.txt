@@ -1,4 +1,4 @@
 Welcome to My First Repo
 learning git is going we so far.
 I added this line in the update-readme branch.
-It's windy outside windy.
+It's sunny outside today.
